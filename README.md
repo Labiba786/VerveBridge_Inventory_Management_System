@@ -41,7 +41,7 @@ Welcome to the Inventory Management App, a comprehensive solution for managing i
 
 ## Tech Stack Used
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, TailwindCSS
 
 **Server:** Node, Express
 
